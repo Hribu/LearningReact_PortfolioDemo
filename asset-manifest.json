@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LearningReact_PortfolioDemo/static/css/main.df6a7eab.css",
+    "main.js": "/LearningReact_PortfolioDemo/static/js/main.7bfa6b15.js",
+    "static/js/787.2a5fd0c8.chunk.js": "/LearningReact_PortfolioDemo/static/js/787.2a5fd0c8.chunk.js",
+    "static/media/photo4.jpg": "/LearningReact_PortfolioDemo/static/media/photo4.4c7907d15dd9ea0be97c.jpg",
+    "static/media/photo2.jpg": "/LearningReact_PortfolioDemo/static/media/photo2.7d510936625768642967.jpg",
+    "static/media/photo3.jpg": "/LearningReact_PortfolioDemo/static/media/photo3.9a32dfac129b20149889.jpg",
+    "static/media/photo1.jpg": "/LearningReact_PortfolioDemo/static/media/photo1.76b22eb753ddc88e0626.jpg",
+    "index.html": "/LearningReact_PortfolioDemo/index.html",
+    "main.df6a7eab.css.map": "/LearningReact_PortfolioDemo/static/css/main.df6a7eab.css.map",
+    "main.7bfa6b15.js.map": "/LearningReact_PortfolioDemo/static/js/main.7bfa6b15.js.map",
+    "787.2a5fd0c8.chunk.js.map": "/LearningReact_PortfolioDemo/static/js/787.2a5fd0c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a7eab.css",
+    "static/js/main.7bfa6b15.js"
+  ]
+}
